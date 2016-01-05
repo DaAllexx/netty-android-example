@@ -25,3 +25,13 @@ proguard/
 
 # Log Files
 *.log
+
+# IntelliJ Idea
+.idea/
+*.iml
+*.iws
+
+# Gradle
+.gradle/
+build/
+
